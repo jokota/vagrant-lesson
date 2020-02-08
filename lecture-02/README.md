@@ -6,7 +6,7 @@ OS・環境別にVagrantのインストール手順を説明します。
 
 ### (1). BIOSのVitrualizaionをONにする
 
-ほとんどのPCは出荷状態でBIOSでVirtualizationの機能が無効になっています。  
+ほとんどのPCは出荷状態ではBIOSのVirtualizationの機能が無効になっています。  
 PCメーカーのマニュアル・ホームページなどを確認しながら、BIOSの設定変更を行ってください。
 
 
@@ -15,10 +15,19 @@ PCメーカーのマニュアル・ホームページなどを確認しながら
 https://www.virtualbox.org/
 
 
+
 ### (3). Vagrantをインストールする
 
 https://www.vagrantup.com/
 
+
+### (4). Pluginをインストールする
+
+```
+$ vagrant plugin install vagrant-vbguest
+```
+
+---
 
 ## 2. Mac + VirtualBox
 
@@ -26,7 +35,14 @@ https://www.vagrantup.com/
 
 https://www.virtualbox.org/
 
+
 ### (2). Vagrantをインストールする
 
 https://www.vagrantup.com/
 
+
+### (3). Pluginをインストールする
+
+```
+$ vagrant plugin install vagrant-vbguest
+```
