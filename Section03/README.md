@@ -1,4 +1,4 @@
-# Lecture 03 : Vagrantの基本操作
+# Section 03 : Vagrantの基本操作
 
 ## vagrant up
 

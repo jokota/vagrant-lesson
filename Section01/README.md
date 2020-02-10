@@ -1,4 +1,4 @@
-# Lecture 01： はじめに
+# Section 01： はじめに
 
 ## 1. Vagrantを使ったデモ
 

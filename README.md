@@ -2,30 +2,30 @@
 
 Vagrantの使い方について学んで行きましょう。
 
-## Lecture 01
+## Section 01
 
-[はじめに](lecture-01)
+[はじめに](Section01)
 
-## Lecture 02
+## Section 02
 
-[インストール](lecture-02)
-
-
-## Lecture 03
-
-[基本操作](lecture-03)
+[インストール](Section02)
 
 
-## Lecture 04
+## Section 03
 
-[VM設定](lecture-04)
-
-
-## Lecture 05
-
-[プロビジョニング](lecture-06)
+[基本操作](Section03)
 
 
-## Lecture 06
+## Section 04
 
-[開発例](lecture-06)
+[VM設定](Section04)
+
+
+## Section 05
+
+[プロビジョニング](Section06)
+
+
+## Section 06
+
+[開発例](Section06)

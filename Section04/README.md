@@ -1,4 +1,4 @@
-# Lecture 04 : VM設定(config.vb)
+# Section 04 : VM設定(config.vb)
 
 Vagrantfileで行うVMの設定方法を紹介します。
 
